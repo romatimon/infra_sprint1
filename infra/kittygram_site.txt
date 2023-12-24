@@ -1,0 +1,5 @@
+ IP: 158.160.83.187;
+ name_taski: https://buboshay.ddns.net;
+ name_kittygram: https://kittyrmn.ddns.net;
+ login: root;
+ password: 1234;
